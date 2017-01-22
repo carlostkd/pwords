@@ -2,7 +2,7 @@
 
 # Simple Python code to make a random secure 12 character passwords
 # Fell free to change the lenght of passwords
-
+# Enter any name you whant to convert as password
 
 
 
@@ -23,6 +23,6 @@ def generator():
     letter12=random.choice(string.punctuation)
     name=letter1+letter2+letter3+letter4+letter5+letter6+letter7+letter8+letter9+letter10+letter11+letter12
     return (name)
-x = input("enter a 4 letters: ")
+x = input("enter any name to convert: ")
 
 print("sugested password is {} ".format(generator()))
