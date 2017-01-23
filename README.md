@@ -1,3 +1,9 @@
+
+Programming is fun
+When the work is done
+if you wanna make your work also fun
+use Python!
+
 ###### PASSWORDS ######
 passwords generator
 this script works only with python 3!!
